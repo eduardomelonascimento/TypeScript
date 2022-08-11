@@ -1,0 +1,940 @@
+2022-08-11 01:38:57 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:38:58 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:39:18 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:39:22 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:39:22 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:39:29 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:39:30 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:39:45 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:39:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:40:01 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:40:01 - [31merror[39m - [31mError on database connection: MongoServerError: bad auth : Authentication failed.[39m
+2022-08-11 01:40:14 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:40:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:42:28 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:42:29 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:42:36 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:42:36 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:42:48 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:42:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:42:53 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:42:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:42:58 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:42:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:04 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:05 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:12 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:17 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:17 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:45 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:47 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:47 - [31merror[39m - [31mError on database connection: MongoServerError: bad auth : Authentication failed.[39m
+2022-08-11 01:43:52 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:56 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:57 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:57 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:43:59 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:43:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:44:02 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:44:02 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:44:05 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:44:05 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:44:08 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:44:09 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:48:46 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:48:48 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:48:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:48:49 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:48:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:53:38 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:53:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:53:49 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:53:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:54:29 - [35mhttp[39m - [35mGET /api/test 200 11 - 3.070 ms[39m
+[35m[39m
+2022-08-11 01:54:54 - [32minfo[39m - [32mApp listening on port 8080[39m
+2022-08-11 01:54:54 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 01:55:00 - [35mhttp[39m - [35mGET /api/test 200 11 - 3.503 s[39m
+[35m[39m
+2022-08-11 01:55:21 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 01:55:21 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:04:55 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:04:56 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:05:04 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:05:05 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:05:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:05:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:05:22 - [35mhttp[39m - [35mGET /api/movie 404 148 - 3.012 s[39m
+[35m[39m
+2022-08-11 02:05:30 - [35mhttp[39m - [35mGET /api/test/movie 404 153 - 2.070 s[39m
+[35m[39m
+2022-08-11 02:05:43 - [35mhttp[39m - [35mGET /api/test 200 11 - 2.234 s[39m
+[35m[39m
+2022-08-11 02:06:11 - [35mhttp[39m - [35mPOST /api/movie 200 41 - 0.694 s[39m
+[35m[39m
+2022-08-11 02:07:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:07:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:07:54 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:07:55 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:08:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:08:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:08:44 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:08:45 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:08:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:08:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:08:54 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:08:55 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:08:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:08:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:05 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:06 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:08 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:08 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:20 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:26 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:55 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:57 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:09:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:09:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:03 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:11 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:11 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:13 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:18 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:36 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:10:57 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:10:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:11:01 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:11:01 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:12:44 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 02:12:44 - [35mhttp[39m - [35mPOST /api/movie 201 24 - 54.186 s[39m
+[35m[39m
+2022-08-11 02:13:04 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 02:13:05 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 02:13:10 - [35mhttp[39m - [35mPOST /api/movie 201 26 - 54.535 s[39m
+[35m[39m
+2022-08-11 10:39:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:39:23 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:39:39 - [35mhttp[39m - [35mPOST /api/movie 201 12 - 81.431 s[39m
+[35m[39m
+2022-08-11 10:39:44 - [35mhttp[39m - [35mPOST /api/movie 201 13 - 40.542 s[39m
+[35m[39m
+2022-08-11 10:41:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:41:44 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:41:47 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:41:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:42:01 - [35mhttp[39m - [35mPOST /api/movie 201 13 - 60.381 s[39m
+[35m[39m
+2022-08-11 10:42:11 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:42:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:42:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:42:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:42:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:42:18 - [35mhttp[39m - [35mPOST /api/movie 201 13 - 58.945 s[39m
+[35m[39m
+2022-08-11 10:43:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:43:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:43:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:43:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:43:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:43:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:44:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:44:01 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:44:22 - [35mhttp[39m - [35mPOST /api/movie 201 13 - 59.044 s[39m
+[35m[39m
+2022-08-11 10:45:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:45:03 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:45:13 - [35mhttp[39m - [35mPOST /api/movie - - - - s[39m
+[35m[39m
+2022-08-11 10:45:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:45:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:45:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:45:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:46:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:46:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:46:28 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:46:29 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:46:51 - [35mhttp[39m - [35mPOST /api/movie 422 48 - 8.204 s[39m
+[35m[39m
+2022-08-11 10:46:57 - [35mhttp[39m - [35mPOST /api/movie 201 13 - 53.578 s[39m
+[35m[39m
+2022-08-11 10:47:09 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:47:10 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:47:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:47:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:47:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:47:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:47:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:47:51 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:47:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:10 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:48:10 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:48:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:48:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:48:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:48:31 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:48:39 - [35mhttp[39m - [35mPOST /api/movie 422 43 - 7.459 s[39m
+[35m[39m
+2022-08-11 10:49:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:49:23 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:49:24 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:49:24 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:49:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:49:31 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:49:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:49:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:49:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:49:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:28 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:36 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:44 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:48 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:50:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:50:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:51:01 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:51:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:51:02 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:51:07 - [35mhttp[39m - [35mPOST /api/movie 422 84 - 9.011 s[39m
+[35m[39m
+2022-08-11 10:52:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:52:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:52:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:52:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:52:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:52:37 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:52:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:52:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:53:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:53:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:53:33 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:53:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:53:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:53:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:53:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:54:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:54:13 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:54:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:54:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:54:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:54:20 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:54:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:54:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:55:07 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:55:08 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:55:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:55:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:55:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:55:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:56:03 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:56:04 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:56:06 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:56:06 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:56:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:56:13 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:56:44 - [35mhttp[39m - [35mPOST /api/movie 422 127 - 11.584 s[39m
+[35m[39m
+2022-08-11 10:57:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:57:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:57:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:57:31 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:58:06 - [35mhttp[39m - [35mPOST /api/movie 422 100 - 8.986 s[39m
+[35m[39m
+2022-08-11 10:58:21 - [35mhttp[39m - [35mPOST /api/movie 422 97 - 2.157 s[39m
+[35m[39m
+2022-08-11 10:58:40 - [35mhttp[39m - [35mPOST /api/movie 201 43 - 56.838 s[39m
+[35m[39m
+2022-08-11 10:59:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:59:33 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 10:59:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 10:59:38 - [35mhttp[39m - [35mPOST /api/movie 201 53 - 61.001 s[39m
+[35m[39m
+2022-08-11 11:00:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:00:17 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:00:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:00:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:00:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:00:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:02:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:02:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:02:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:02:27 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:02:37 - [35mhttp[39m - [35mPOST /api/movie 201 53 - 64.241 s[39m
+[35m[39m
+2022-08-11 11:02:39 - [35mhttp[39m - [35mPOST /api/movie 201 53 - 42.051 s[39m
+[35m[39m
+2022-08-11 11:02:48 - [35mhttp[39m - [35mPOST /api/movie 201 53 - 39.786 s[39m
+[35m[39m
+2022-08-11 11:05:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:05:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:05:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:05:16 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:06:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:06:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:06:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:06:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:08:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:08:03 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:08:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:08:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:08:30 - [35mhttp[39m - [35mPOST /api/movie 201 53 - 64.187 s[39m
+[35m[39m
+2022-08-11 11:08:32 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:09:07 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:09:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:09:47 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:09:47 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:09:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:09:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:09:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:09:54 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:10:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:10:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:10:20 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:10:20 - [35mhttp[39m - [35mPOST /api/movie 422 2 - 60.321 s[39m
+[35m[39m
+2022-08-11 11:10:23 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:10:23 - [35mhttp[39m - [35mPOST /api/movie 422 2 - 41.297 s[39m
+[35m[39m
+2022-08-11 11:11:01 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:11:01 - [35mhttp[39m - [35mPOST /api/movie 422 2 - 36.813 s[39m
+[35m[39m
+2022-08-11 11:11:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:11:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:11:15 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:11:15 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 62.924 s[39m
+[35m[39m
+2022-08-11 11:11:30 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:11:30 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:11:38 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:11:38 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:11:41 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:11:41 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 59.472 s[39m
+[35m[39m
+2022-08-11 11:11:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:11:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:11:59 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:11:59 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 62.526 s[39m
+[35m[39m
+2022-08-11 11:12:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:12:13 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:12:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:12:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:12:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:12:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:12:23 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 59.464 s[39m
+[35m[39m
+2022-08-11 11:12:59 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:13:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:13:03 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 70.334 s[39m
+[35m[39m
+2022-08-11 11:13:18 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:13:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:13:21 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 57.245 s[39m
+[35m[39m
+2022-08-11 11:13:24 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 37.785 s[39m
+[35m[39m
+2022-08-11 11:13:30 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:13:31 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:13:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:13:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:13:33 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:13:33 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 56.179 s[39m
+[35m[39m
+2022-08-11 11:13:36 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:13:36 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 39.761 s[39m
+[35m[39m
+2022-08-11 11:13:59 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:14:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:14:00 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:14:00 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 276.800 s[39m
+[35m[39m
+2022-08-11 11:14:04 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:14:04 - [35mhttp[39m - [35mPOST /api/movie 422 101 - 38.178 s[39m
+[35m[39m
+2022-08-11 11:14:08 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:14:09 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:14:09 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:14:09 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 560.797 s[39m
+[35m[39m
+2022-08-11 11:16:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:44 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:44 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:47 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:16:57 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:16:57 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:01 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:01 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:03 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:03 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:07 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:16 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:16 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:18 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:18 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:23 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:24 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:27 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:28 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:29 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:48 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:17:54 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:17:56 - [35mhttp[39m - [35mPOST /api/movie 422 92 - 9.387 s[39m
+[35m[39m
+2022-08-11 11:18:16 - [35mhttp[39m - [35mPOST /api/movie 422 44 - 2.593 s[39m
+[35m[39m
+2022-08-11 11:18:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:18:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:18:44 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:18:44 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:18:45 - [35mhttp[39m - [35mPOST /api/movie 422 61 - 9.306 s[39m
+[35m[39m
+2022-08-11 11:22:36 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:22:36 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 52.254 s[39m
+[35m[39m
+2022-08-11 11:23:05 - [35mhttp[39m - [35mPOST /api/movie 201 404 - 39.566 s[39m
+[35m[39m
+2022-08-11 11:24:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:24:21 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:24:22 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:24:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:24:26 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:24:36 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:24:37 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:16 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:18 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:20 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:24 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:24 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:45 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:25:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:25:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:26:01 - [35mhttp[39m - [35mPOST /api/movie 422 99 - 14.570 s[39m
+[35m[39m
+2022-08-11 11:26:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:26:33 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:26:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:27:45 - [35mhttp[39m - [35mPOST /api/movie 422 99 - 10.737 s[39m
+[35m[39m
+2022-08-11 11:27:55 - [35mhttp[39m - [35mPOST /api/movie 422 54 - 8.415 s[39m
+[35m[39m
+2022-08-11 11:28:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:28:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:28:38 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:28:38 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:28:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:28:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:29:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:29:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:29:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:29:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:29:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:29:17 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:29:21 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:29:21 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:29:36 - [31merror[39m - [31mError: E11000 duplicate key error collection: test.movies index: title_1 dup key: { title: "Avengers: End Game" }[39m
+2022-08-11 11:29:36 - [35mhttp[39m - [35mPOST /api/movie 422 120 - 64.763 s[39m
+[35m[39m
+2022-08-11 11:29:45 - [35mhttp[39m - [35mPOST /api/movie 201 628 - 47.041 s[39m
+[35m[39m
+2022-08-11 11:30:48 - [35mhttp[39m - [35mPOST /api/movie 201 634 - 54.088 s[39m
+[35m[39m
+2022-08-11 11:34:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:23 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:29 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:30 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:31 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:50 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:34:54 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:34:55 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:35:04 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:35:04 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:35:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:35:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:35:54 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:35:54 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:01 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:20 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:22 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:29 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:29 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:38 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:50 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:51 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:36:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:36:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:03 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:04 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:09 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:09 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:19 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:37:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:48 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:37:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:38:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:38:13 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:38:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:38:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:38:50 - [31merror[39m - [31mError: Cast to ObjectId failed for value "id" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:38:50 - [35mhttp[39m - [35mGET /api/movie/id 422 102 - 10.009 s[39m
+[35m[39m
+2022-08-11 11:39:10 - [31merror[39m - [31mError: Cast to ObjectId failed for value "5" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:39:10 - [35mhttp[39m - [35mGET /api/movie/5 422 101 - 2.823 s[39m
+[35m[39m
+2022-08-11 11:41:06 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:41:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:41:18 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:41:23 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:41:48 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:41:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:41:58 - [31merror[39m - [31mError: Cast to ObjectId failed for value "5" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:41:58 - [35mhttp[39m - [35mGET /api/movie/5 422 101 - 16.301 s[39m
+[35m[39m
+2022-08-11 11:41:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:42:24 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:42:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:42:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:42:27 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:42:29 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:42:29 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:42:29 - [31merror[39m - [31mError: Cast to ObjectId failed for value "5" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:42:30 - [35mhttp[39m - [35mGET /api/movie/5 422 101 - 20.209 s[39m
+[35m[39m
+2022-08-11 11:42:31 - [31merror[39m - [31mError: Cast to ObjectId failed for value "5" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:42:31 - [35mhttp[39m - [35mGET /api/movie/5 422 101 - 2.569 s[39m
+[35m[39m
+2022-08-11 11:42:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:42:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:42:50 - [31merror[39m - [31mError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "Movie"[39m
+2022-08-11 11:42:50 - [35mhttp[39m - [35mGET /api/movie/5 422 101 - 13.661 s[39m
+[35m[39m
+2022-08-11 11:42:59 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:43:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:43:04 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:43:04 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:43:05 - [31merror[39m - [31mError: Cast to ObjectId failed for value "{ id: '5' }" (type Object) at path "_id" for model "Movie"[39m
+2022-08-11 11:43:05 - [35mhttp[39m - [35mGET /api/movie/5 422 111 - 18.837 s[39m
+[35m[39m
+2022-08-11 11:43:13 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:43:14 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:43:57 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:43:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:45:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:45:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:45:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:45:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:46:06 - [35mhttp[39m - [35mPOST /api/movie 201 727 - 66.928 s[39m
+[35m[39m
+2022-08-11 11:46:21 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0 200 717 - 43.199 s[39m
+[35m[39m
+2022-08-11 11:46:26 - [31merror[39m - [31mError: Cast to ObjectId failed for value "62f5162e3bdb2d0b42f344" (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:46:26 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f344 422 122 - 4.981 s[39m
+[35m[39m
+2022-08-11 11:47:26 - [31merror[39m - [31mError: Cast to ObjectId failed for value "62f5162e3bdb2d0b42f343b0," (type string) at path "_id" for model "Movie"[39m
+2022-08-11 11:47:26 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0, 422 125 - 1.830 s[39m
+[35m[39m
+2022-08-11 11:47:30 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 11:47:30 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b1 422 27 - 33.108 s[39m
+[35m[39m
+2022-08-11 11:48:24 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:48:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:48:28 - [35mhttp[39m - [35mGET /api/test 200 11 - 2.940 s[39m
+[35m[39m
+2022-08-11 11:48:34 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0 200 717 - 50.495 s[39m
+[35m[39m
+2022-08-11 11:48:38 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0 200 717 - 52.765 s[39m
+[35m[39m
+2022-08-11 11:48:40 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0 200 717 - 34.436 s[39m
+[35m[39m
+2022-08-11 11:48:41 - [35mhttp[39m - [35mGET /api/movie/62f5162e3bdb2d0b42f343b0 200 717 - 34.596 s[39m
+[35m[39m
+2022-08-11 11:49:20 - [35mhttp[39m - [35mPOST /api/movie 422 55 - 20.283 s[39m
+[35m[39m
+2022-08-11 11:49:25 - [35mhttp[39m - [35mPOST /api/movie 422 55 - 4.729 s[39m
+[35m[39m
+2022-08-11 11:49:36 - [35mhttp[39m - [35mPOST /api/movie 422 55 - 2.476 s[39m
+[35m[39m
+2022-08-11 11:49:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:49:38 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:49:43 - [35mhttp[39m - [35mPOST /api/movie 201 754 - 70.525 s[39m
+[35m[39m
+2022-08-11 11:54:20 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:21 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:54:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:54:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:54:36 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:54:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:54:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:55:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:55:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:55:38 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:55:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:55:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:01 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:01 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:09 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:09 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:15 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:17 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:22 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:26 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:37 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:45 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:53 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:56:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:56:59 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:57:15 - [35mhttp[39m - [35mGET /api/movie 404 148 - 6.971 s[39m
+[35m[39m
+2022-08-11 11:57:22 - [35mhttp[39m - [35mGET /api/movies 404 149 - 1.013 s[39m
+[35m[39m
+2022-08-11 11:57:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:57:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:57:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:57:47 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 11:57:50 - [35mhttp[39m - [35mGET /api/movies 200 746 - 46.894 s[39m
+[35m[39m
+2022-08-11 11:59:57 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 11:59:57 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:00:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:00:03 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:05:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:05:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:06:20 - [35mhttp[39m - [35mDELETE /api/movie/62f51707e60cfaae48035860 200 40 - 52.755 s[39m
+[35m[39m
+2022-08-11 12:06:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:06:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:07:35 - [35mhttp[39m - [35mPOST /api/movie 201 804 - 75.547 s[39m
+[35m[39m
+2022-08-11 12:08:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:08:37 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:08:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:08:42 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:08:45 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:08:45 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:08:47 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:08:47 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:08:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:08:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:07 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:24 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:27 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:37 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:37 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:49 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:50 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:54 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:54 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:09:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:09:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:10:22 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:10:23 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:10:35 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:10:35 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:10:38 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:10:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:10:50 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:10:51 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:11:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:11:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:11:06 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:11:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:17 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:21 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:21 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:47 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:12:56 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:12:56 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:14:11 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:14:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:14:33 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:14:33 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:14:41 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:14:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:14:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:14:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:17:48 - [35mhttp[39m - [35mGET /api/movies 200 796 - 47.438 s[39m
+[35m[39m
+2022-08-11 12:18:04 - [35mhttp[39m - [35mGET /api/movie/62f51b37bd6a3eaac70f62e2 200 794 - 38.036 s[39m
+[35m[39m
+2022-08-11 12:21:45 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 404 173 - 1.316 s[39m
+[35m[39m
+2022-08-11 12:21:58 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 200 4 - 39.081 s[39m
+[35m[39m
+2022-08-11 12:22:23 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:23 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:22:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:29 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:30 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:22:32 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:22:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:40 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:22:42 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:22:43 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:22:44 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 12:22:44 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 422 27 - 48.631 s[39m
+[35m[39m
+2022-08-11 12:23:11 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:23:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:23:17 - [35mhttp[39m - [35mGET /api/movies 200 796 - 48.287 s[39m
+[35m[39m
+2022-08-11 12:23:29 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 12:23:29 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 422 27 - 42.216 s[39m
+[35m[39m
+2022-08-11 12:24:20 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:24:21 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:24:32 - [35mhttp[39m - [35mGET /api/movies 200 796 - 48.438 s[39m
+[35m[39m
+2022-08-11 12:24:38 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 12:24:38 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 422 27 - 43.011 s[39m
+[35m[39m
+2022-08-11 12:25:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:02 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:02 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:05 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 404 27 - 48.161 s[39m
+[35m[39m
+2022-08-11 12:25:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:26 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:27 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:28 - [31merror[39m - [31mError: Cannot set headers after they are sent to the client[39m
+2022-08-11 12:25:28 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 422 27 - 48.400 s[39m
+[35m[39m
+2022-08-11 12:25:33 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:40 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:41 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:48 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:25:49 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:25:56 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 404 27 - 50.991 s[39m
+[35m[39m
+2022-08-11 12:26:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:26:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:18 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:19 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:25 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:25 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:28 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:39 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:39 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:47 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:48 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:51 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:52 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:27:55 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:27:55 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:28:06 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:28:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:28:12 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:28:12 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:28:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:28:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:28:18 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 404 27 - 42.841 s[39m
+[35m[39m
+2022-08-11 12:28:26 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 404 27 - 35.242 s[39m
+[35m[39m
+2022-08-11 12:28:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:28:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:28:56 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:28:57 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:29:07 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:29:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:29:09 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 104.887 s[39m
+[35m[39m
+2022-08-11 12:30:08 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:30:10 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:30:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:30:36 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:30:36 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:30:46 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 95.932 s[39m
+[35m[39m
+2022-08-11 12:34:43 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:34:44 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:34:46 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:34:46 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:34:48 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 102.079 s[39m
+[35m[39m
+2022-08-11 12:34:50 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 72.840 s[39m
+[35m[39m
+2022-08-11 12:35:22 - [35mhttp[39m - [35mGET /api/movies 200 796 - 36.608 s[39m
+[35m[39m
+2022-08-11 12:35:31 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 74.553 s[39m
+[35m[39m
+2022-08-11 12:36:03 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:36:04 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:36:20 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:36:20 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:36:23 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:36:24 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:36:25 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 98.847 s[39m
+[35m[39m
+2022-08-11 12:36:27 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 70.084 s[39m
+[35m[39m
+2022-08-11 12:36:58 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:36:58 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:37:00 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:37:00 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:37:04 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:37:05 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:37:09 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:37:09 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:37:11 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 93.746 s[39m
+[35m[39m
+2022-08-11 12:37:13 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 69.952 s[39m
+[35m[39m
+2022-08-11 12:37:23 - [35mhttp[39m - [35mGET /api/movies 200 759 - 35.907 s[39m
+[35m[39m
+2022-08-11 12:39:00 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 92 - 72.305 s[39m
+[35m[39m
+2022-08-11 12:39:27 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:39:28 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:39:28 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 25 - 91.888 s[39m
+[35m[39m
+2022-08-11 12:39:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:39:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:40:06 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:40:07 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:40:31 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:40:32 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:40:35 - [31merror[39m - [31mError: Parameter "filter" to updateOne() must be an object, got 62f51b37bd6a3eaac70f62e2[39m
+2022-08-11 12:40:35 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 422 95 - 54.531 s[39m
+[35m[39m
+2022-08-11 12:40:52 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:40:53 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:40:59 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 757 - 95.818 s[39m
+[35m[39m
+2022-08-11 12:41:14 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:41:15 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:41:22 - [35mhttp[39m - [35mPATCH /api/movie/62f51b37bd6a3eaac70f62e2 200 761 - 94.696 s[39m
+[35m[39m
+2022-08-11 12:41:34 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:41:34 - [32minfo[39m - [32mDatabase connected successfully[39m
+2022-08-11 12:41:57 - [35mhttp[39m - [35mPUT /api/movie/62f51b37bd6a3eaac70f62e2 200 808 - 97.667 s[39m
+[35m[39m
+2022-08-11 12:42:57 - [32minfo[39m - [32mAPI listening on port 8080[39m
+2022-08-11 12:42:58 - [32minfo[39m - [32mDatabase connected successfully[39m
